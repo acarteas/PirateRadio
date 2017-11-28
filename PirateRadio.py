@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Pirate Radio
 # Author: Wynter Woods (Make Magazine)
+# Testing with Adam
 
 try:	# the following tests for a python3.x module
 	import configparser
